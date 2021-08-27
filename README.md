@@ -1,2 +1,2 @@
 # Shinotchi
- A tamagotchi-like game developed from scratch in javascript.
+ A Tamagotchi-like game developed from scratch in JavaScript.
