@@ -71,7 +71,6 @@ class vPet {
     this.x = 50;
     this.y = 50;
     this.statLog = [];
-    this.stage0Art = stage0Art;
     this.idleFrame1 = stage1Art1;
     this.idleFrame2 = stage1Art2;
     this.idleFrame3 = stage1Art3;
