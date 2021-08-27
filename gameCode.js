@@ -177,7 +177,7 @@ class vPet {
           var yChange = 0;
       }
       if (shinotchi.x+xChange<=96&&shinotchi.x+xChange>=0) {shinotchi.x+=xChange;}
-      if (shinotchi.y+yChange<=80&&shinotchi.y+yChange>=20) {shinotchi.y+=yChange;}}
+      if (shinotchi.y+yChange<=72&&shinotchi.y+yChange>=20) {shinotchi.y+=yChange;}}
   }
 
   intervalUpdate() {
